@@ -7,6 +7,14 @@
 <span style="color:#5B2BBF;"><strong>Industry Experience:</strong></span> 17+ Years  
 
 ---
+
+Connect:  
+LinkedIn: https://www.linkedin.com/in/praveengudla  
+GitHub: https://github.com/scalewithpk  
+
+Learn Cloud the Industry Way — Not Just for Interviews
+---
+
 ## Step-01: Introduction
 - Understand basic Terraform Commands
 1. terraform init

@@ -7,6 +7,14 @@
 
 ---
 
+Connect:  
+LinkedIn: https://www.linkedin.com/in/praveengudla  
+GitHub: https://github.com/scalewithpk  
+
+Learn Cloud the Industry Way — Not Just for Interviews
+
+---
+
 ## Step-01: Introduction
 In this session, we will understand the Terraform Configuration Language, which is used to define infrastructure using code.
 

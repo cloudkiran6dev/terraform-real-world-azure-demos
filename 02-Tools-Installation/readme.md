@@ -8,6 +8,14 @@
 
 ---
 
+Connect:  
+LinkedIn: https://www.linkedin.com/in/praveengudla  
+GitHub: https://github.com/scalewithpk  
+
+Learn Cloud the Industry Way — Not Just for Interviews
+
+---
+
 ## Objective of This Session
 
 By the end of this setup session, you will be able to:
